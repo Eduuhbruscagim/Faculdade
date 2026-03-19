@@ -1,0 +1,56 @@
+# Dependências
+node_modules/
+.pnpm-store/
+.npm/
+.yarn/
+
+# Build / produção
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Ambiente
+.env
+.env.*
+!.env.example
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs / editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos temporários
+tmp/
+temp/
+
+# Cache
+.cache/
+.vite/
+.eslintcache
+
+# Testes
+coverage/
+
+# Tipos TypeScript
+*.tsbuildinfo
+
+# Arquivos específicos do Vite
+vite.config.ts.timestamp-*
+vite.config.js.timestamp-*
+
+# Lock files (opcional - escolha manter ou não)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
