@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 export default function Alagoas() {
   return (
     <div>
-      <h1>Estado do Alagoas</h1>
+      <h1>Estado de Alagoas</h1>
       <div className = "conteudo">
         <img src = "/AL.png" />
 

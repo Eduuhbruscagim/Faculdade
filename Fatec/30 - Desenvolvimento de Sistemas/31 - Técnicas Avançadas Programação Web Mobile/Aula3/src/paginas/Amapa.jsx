@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Amapa() {
   return (
     <div>
-      <h1>Estado do Amapa</h1>
+      <h1>Estado de Amapa</h1>
       <div className = "conteudo">
         <img src = "/AP.png" />
 

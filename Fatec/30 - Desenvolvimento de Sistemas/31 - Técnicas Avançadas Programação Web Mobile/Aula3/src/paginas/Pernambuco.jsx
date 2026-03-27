@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Pernambuco() {
   return (
     <div>
-      <h1>Estado do Pernambuco</h1>
+      <h1>Estado de Pernambuco</h1>
       <div className = "conteudo">
         <img src = "/PE.png" />
 

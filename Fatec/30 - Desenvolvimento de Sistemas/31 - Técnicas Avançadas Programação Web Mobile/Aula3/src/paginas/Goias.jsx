@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Goias() {
   return (
     <div>
-      <h1>Estado do Goias</h1>
+      <h1>Estado de Goias</h1>
       <div className = "conteudo">
         <img src = "/GO.png" />
 

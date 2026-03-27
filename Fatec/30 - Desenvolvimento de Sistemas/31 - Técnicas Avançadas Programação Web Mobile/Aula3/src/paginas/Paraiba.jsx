@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Paraiba() {
   return (
     <div>
-      <h1>Estado da Paraiba</h1>
+      <h1>Estado de Paraiba</h1>
       <div className = "conteudo">
         <img src = "/PB.png" />
 

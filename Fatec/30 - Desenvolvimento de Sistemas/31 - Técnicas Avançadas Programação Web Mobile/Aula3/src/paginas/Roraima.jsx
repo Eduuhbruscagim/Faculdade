@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Roraima() {
   return (
     <div>
-      <h1>Estado do Roraima</h1>
+      <h1>Estado de Roraima</h1>
       <div className = "conteudo">
         <img src = "/RR.png" />
 

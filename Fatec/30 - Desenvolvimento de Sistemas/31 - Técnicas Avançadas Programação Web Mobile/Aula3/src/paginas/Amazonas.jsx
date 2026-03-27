@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Amazonas() {
   return (
     <div>
-      <h1>Estado do Amazonas</h1>
+      <h1>Estado de Amazonas</h1>
       <div className = "conteudo">
         <img src = "/AM.png" />
 

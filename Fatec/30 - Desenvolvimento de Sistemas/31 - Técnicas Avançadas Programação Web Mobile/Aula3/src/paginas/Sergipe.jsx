@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Sergipe() {
   return (
     <div>
-      <h1>Estado do Sergipe</h1>
+      <h1>Estado de Sergipe</h1>
       <div className = "conteudo">
         <img src = "/SE.png" />
 

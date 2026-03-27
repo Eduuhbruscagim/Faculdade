@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Rondonia() {
   return (
     <div>
-      <h1>Estado do Rondonia</h1>
+      <h1>Estado de Rondonia</h1>
       <div className = "conteudo">
         <img src = "/RO.png" />
 
