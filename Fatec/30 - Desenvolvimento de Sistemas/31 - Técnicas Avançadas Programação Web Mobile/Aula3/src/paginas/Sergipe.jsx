@@ -7,10 +7,10 @@ export default function Sergipe() {
       <div className = "conteudo">
         <img src = "/SE.png" />
 
-        <p>Minas Gerais é um estado de grande extensão territorial, com economia diversificada e importantes centros urbanos.
-          Apesar disso, enfrenta desafios relacionados à infraestrutura e ao desenvolvimento desigual entre suas regiões.
-          Questões como acesso a serviços públicos e oportunidades econômicas variam bastante dentro do estado.
-          Além disso, problemas ambientais e de gestão também impactam a qualidade de vida em algumas áreas.
+        <p>
+          Menor estado do Brasil, localizado no Nordeste, capital Aracaju, litoral com praias
+          tranquilas e turismo regional, economia baseada em serviços, petróleo, gás e agricultura,
+          ritmo mais calmo comparado a outros estados maiores.
         </p>
 
         <p>
@@ -18,5 +18,5 @@ export default function Sergipe() {
         </p>
       </div>
     </div>
-  );
+  )
 }

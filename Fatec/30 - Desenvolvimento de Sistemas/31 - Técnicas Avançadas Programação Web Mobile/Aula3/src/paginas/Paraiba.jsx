@@ -7,10 +7,10 @@ export default function Paraiba() {
       <div className = "conteudo">
         <img src = "/PB.png" />
 
-        <p>Minas Gerais é um estado de grande extensão territorial, com economia diversificada e importantes centros urbanos.
-          Apesar disso, enfrenta desafios relacionados à infraestrutura e ao desenvolvimento desigual entre suas regiões.
-          Questões como acesso a serviços públicos e oportunidades econômicas variam bastante dentro do estado.
-          Além disso, problemas ambientais e de gestão também impactam a qualidade de vida em algumas áreas.
+        <p>
+          Estado do Nordeste, litoral bonito e clima quente, capital João Pessoa, economia baseada
+          em serviços, turismo e agricultura, destaque por ser o ponto mais oriental das Américas,
+          cultura rica com festas populares e tradição nordestina forte.
         </p>
 
         <p>
@@ -18,5 +18,5 @@ export default function Paraiba() {
         </p>
       </div>
     </div>
-  );
+  )
 }

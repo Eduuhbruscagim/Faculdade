@@ -7,10 +7,11 @@ export default function Piaui() {
       <div className = "conteudo">
         <img src = "/PI.png" />
 
-        <p>Minas Gerais é um estado de grande extensão territorial, com economia diversificada e importantes centros urbanos.
-          Apesar disso, enfrenta desafios relacionados à infraestrutura e ao desenvolvimento desigual entre suas regiões.
-          Questões como acesso a serviços públicos e oportunidades econômicas variam bastante dentro do estado.
-          Além disso, problemas ambientais e de gestão também impactam a qualidade de vida em algumas áreas.
+        <p>
+          Estado do Nordeste, um dos menos populosos, litoral pequeno comparado aos vizinhos,
+          capital Teresina (única capital nordestina que não fica no litoral), economia baseada em
+          agricultura, pecuária e serviços, destaque para o Parque Nacional da Serra da Capivara,
+          com sítios arqueológicos importantes.
         </p>
 
         <p>
@@ -18,5 +19,5 @@ export default function Piaui() {
         </p>
       </div>
     </div>
-  );
+  )
 }

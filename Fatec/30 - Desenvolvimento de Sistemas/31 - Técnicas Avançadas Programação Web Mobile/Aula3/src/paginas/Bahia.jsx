@@ -7,10 +7,11 @@ export default function Bahia() {
       <div className = "conteudo">
         <img src = "/BA.png" />
 
-        <p>Minas Gerais é um estado de grande extensão territorial, com economia diversificada e importantes centros urbanos.
-          Apesar disso, enfrenta desafios relacionados à infraestrutura e ao desenvolvimento desigual entre suas regiões.
-          Questões como acesso a serviços públicos e oportunidades econômicas variam bastante dentro do estado.
-          Além disso, problemas ambientais e de gestão também impactam a qualidade de vida em algumas áreas.
+        <p>
+          Estado do Nordeste, um dos mais históricos e culturalmente ricos do Brasil, capital
+          Salvador, forte influência africana na cultura, culinária e religião, litoral extenso com
+          turismo forte, economia baseada em turismo, agricultura, petróleo e serviços, conhecido
+          por festas como o Carnaval e tradições como capoeira e candomblé.
         </p>
 
         <p>
@@ -18,5 +19,5 @@ export default function Bahia() {
         </p>
       </div>
     </div>
-  );
+  )
 }

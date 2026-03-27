@@ -7,10 +7,10 @@ export default function Goias() {
       <div className = "conteudo">
         <img src = "/GO.png" />
 
-        <p>Minas Gerais é um estado de grande extensão territorial, com economia diversificada e importantes centros urbanos.
-          Apesar disso, enfrenta desafios relacionados à infraestrutura e ao desenvolvimento desigual entre suas regiões.
-          Questões como acesso a serviços públicos e oportunidades econômicas variam bastante dentro do estado.
-          Além disso, problemas ambientais e de gestão também impactam a qualidade de vida em algumas áreas.
+        <p>
+          Estado do Centro-Oeste, destaque para o agronegócio (soja, milho, pecuária), capital
+          Goiânia, economia também com indústria e mineração, forte crescimento urbano, cultura
+          sertaneja bem presente e localização estratégica no país.
         </p>
 
         <p>
@@ -18,5 +18,5 @@ export default function Goias() {
         </p>
       </div>
     </div>
-  );
+  )
 }

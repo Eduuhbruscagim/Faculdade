@@ -4,13 +4,14 @@ export default function Para() {
   return (
     <div>
       <h1>Estado do Para</h1>
-      <div className = "conteudo">
-        <img src = "/PA.png" />
+      <div className="conteudo">
+        <img src="/PA.png" />
 
-        <p>Minas Gerais é um estado de grande extensão territorial, com economia diversificada e importantes centros urbanos.
-          Apesar disso, enfrenta desafios relacionados à infraestrutura e ao desenvolvimento desigual entre suas regiões.
-          Questões como acesso a serviços públicos e oportunidades econômicas variam bastante dentro do estado.
-          Além disso, problemas ambientais e de gestão também impactam a qualidade de vida em algumas áreas.
+        <p>
+          Estado do Norte, um dos maiores do Brasil, forte presença da Amazônia, capital Belém,
+          economia baseada em mineração (ferro), extrativismo, agropecuária e portos, grande
+          importância ambiental e biodiversidade, desafios sociais e de infraestrutura em várias
+          regiões.
         </p>
 
         <p>
@@ -18,5 +19,5 @@ export default function Para() {
         </p>
       </div>
     </div>
-  );
+  )
 }

@@ -7,10 +7,10 @@ export default function Pernambuco() {
       <div className = "conteudo">
         <img src = "/PE.png" />
 
-        <p>Minas Gerais é um estado de grande extensão territorial, com economia diversificada e importantes centros urbanos.
-          Apesar disso, enfrenta desafios relacionados à infraestrutura e ao desenvolvimento desigual entre suas regiões.
-          Questões como acesso a serviços públicos e oportunidades econômicas variam bastante dentro do estado.
-          Além disso, problemas ambientais e de gestão também impactam a qualidade de vida em algumas áreas.
+        <p>
+          Estado do Nordeste, capital Recife, economia diversificada com indústria, comércio,
+          turismo e tecnologia (Porto Digital), litoral forte com praias famosas e Recife como polo
+          urbano importante, cultura marcante com frevo, maracatu e Carnaval tradicional.
         </p>
 
         <p>
@@ -18,5 +18,5 @@ export default function Pernambuco() {
         </p>
       </div>
     </div>
-  );
+  )
 }

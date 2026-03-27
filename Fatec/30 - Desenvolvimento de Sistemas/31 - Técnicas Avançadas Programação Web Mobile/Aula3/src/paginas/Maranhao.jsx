@@ -7,10 +7,10 @@ export default function Maranhao() {
       <div className = "conteudo">
         <img src = "/MA.png" />
 
-        <p>Minas Gerais é um estado de grande extensão territorial, com economia diversificada e importantes centros urbanos.
-          Apesar disso, enfrenta desafios relacionados à infraestrutura e ao desenvolvimento desigual entre suas regiões.
-          Questões como acesso a serviços públicos e oportunidades econômicas variam bastante dentro do estado.
-          Além disso, problemas ambientais e de gestão também impactam a qualidade de vida em algumas áreas.
+        <p>
+          Estado do Nordeste, mistura de Amazônia, cerrado e litoral, capital São Luís, conhecido
+          pelos Lençóis Maranhenses, economia baseada em agricultura, pecuária, extrativismo e porto
+          estratégico, cultura rica com forte influência indígena, africana e portuguesa.
         </p>
 
         <p>
@@ -18,5 +18,5 @@ export default function Maranhao() {
         </p>
       </div>
     </div>
-  );
+  )
 }

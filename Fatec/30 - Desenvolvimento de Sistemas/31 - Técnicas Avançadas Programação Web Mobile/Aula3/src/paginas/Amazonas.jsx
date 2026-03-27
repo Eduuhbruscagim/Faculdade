@@ -7,10 +7,12 @@ export default function Amazonas() {
       <div className = "conteudo">
         <img src = "/AM.png" />
 
-        <p>Minas Gerais é um estado de grande extensão territorial, com economia diversificada e importantes centros urbanos.
-          Apesar disso, enfrenta desafios relacionados à infraestrutura e ao desenvolvimento desigual entre suas regiões.
-          Questões como acesso a serviços públicos e oportunidades econômicas variam bastante dentro do estado.
-          Além disso, problemas ambientais e de gestão também impactam a qualidade de vida em algumas áreas.
+        <p>
+          Maior estado do Brasil, localizado na região Norte, dominado pela Floresta Amazônica e
+          pela maior bacia hidrográfica do mundo, destaque para o Rio Amazonas, capital Manaus,
+          economia baseada na Zona Franca (indústria), extrativismo e turismo ecológico, baixa
+          densidade populacional fora da capital, forte presença de povos indígenas e biodiversidade
+          extremamente rica.
         </p>
 
         <p>
@@ -18,5 +20,5 @@ export default function Amazonas() {
         </p>
       </div>
     </div>
-  );
+  )
 }

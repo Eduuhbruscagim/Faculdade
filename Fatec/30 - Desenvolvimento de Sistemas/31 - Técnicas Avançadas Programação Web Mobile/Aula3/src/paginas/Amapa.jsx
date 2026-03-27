@@ -7,10 +7,11 @@ export default function Amapa() {
       <div className = "conteudo">
         <img src = "/AP.png" />
 
-        <p>Minas Gerais é um estado de grande extensão territorial, com economia diversificada e importantes centros urbanos.
-          Apesar disso, enfrenta desafios relacionados à infraestrutura e ao desenvolvimento desigual entre suas regiões.
-          Questões como acesso a serviços públicos e oportunidades econômicas variam bastante dentro do estado.
-          Além disso, problemas ambientais e de gestão também impactam a qualidade de vida em algumas áreas.
+        <p>
+          Estado do Norte, coberto em grande parte pela Amazônia preservada, baixa densidade
+          populacional e difícil acesso (muitos lugares só por barco ou avião), capital Macapá,
+          cortado pela Linha do Equador, economia baseada em extrativismo, mineração e setor
+          público.
         </p>
 
         <p>
@@ -18,5 +19,5 @@ export default function Amapa() {
         </p>
       </div>
     </div>
-  );
+  )
 }

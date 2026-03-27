@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link } from 'react-router-dom'
 
 export default function Alagoas() {
   return (
@@ -7,10 +7,10 @@ export default function Alagoas() {
       <div className = "conteudo">
         <img src = "/AL.png" />
 
-        <p>Minas Gerais é um estado de grande extensão territorial, com economia diversificada e importantes centros urbanos.
-          Apesar disso, enfrenta desafios relacionados à infraestrutura e ao desenvolvimento desigual entre suas regiões.
-          Questões como acesso a serviços públicos e oportunidades econômicas variam bastante dentro do estado.
-          Além disso, problemas ambientais e de gestão também impactam a qualidade de vida em algumas áreas.
+        <p>
+          Estado pequeno do Nordeste, famoso pelo litoral bonito com águas bem claras (tipo
+          Maragogi, apelidado de “Caribe brasileiro”), economia baseada em turismo, cana-de-açúcar e
+          serviços, capital Maceió, cultura forte no artesanato e no forró.
         </p>
 
         <p>
@@ -18,5 +18,5 @@ export default function Alagoas() {
         </p>
       </div>
     </div>
-  );
+  )
 }
