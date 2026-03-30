@@ -11,12 +11,14 @@
             "id": "31fcade6d049eed5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Fatec/30 - Desenvolvimento de Sistemas/33 - Técnicas Avançadas de Programaçao/PDFs/Java 3 - Estrutura de repetição.pdf"
+                "file": "Fatec/40 - Recursos Dev/42 - Configs de Ambiente/Settings.json - Visual Studio Code.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Java 3 - Estrutura de repetição"
+              "icon": "lucide-file",
+              "title": "Settings.json - Visual Studio Code"
             }
           }
         ]
@@ -183,6 +185,16 @@
   },
   "active": "31fcade6d049eed5",
   "lastOpenFiles": [
+    "Fatec/40 - Recursos Dev/42 - Configs de Ambiente/Compilador C++.md",
+    "Fatec/40 - Recursos Dev/42 - Configs de Ambiente/Settings.json - Visual Studio Code.md",
+    "Fatec/40 - Recursos Dev/41 - Google Antigravity/Gemini.md",
+    "Fatec/40 - Recursos Dev/41 - Google Antigravity/Formatação.md",
+    "Fatec/40 - Recursos Dev/43 - Configs de Ambiente/Gemini.md",
+    "Fatec/40 - Recursos Dev/42 - Configs de Ambiente",
+    "Fatec/40 - Recursos Dev/41 - Google Antigravity",
+    "Fatec/40 - Recursos Dev/43 - Configs de Ambiente/Gemini.md Original.md",
+    "GEMINI.md",
+    "Fatec/40 - Recursos Dev/43 - Configs de Ambiente/Compilador C++.md",
     "Fatec/30 - Desenvolvimento de Sistemas/33 - Técnicas Avançadas de Programaçao/PDFs/Java 2 - Estrutura de decis�o.pdf",
     "Fatec/30 - Desenvolvimento de Sistemas/33 - Técnicas Avançadas de Programaçao/PDFs/Java 1 - Introdução Prática.pdf",
     "Fatec/30 - Desenvolvimento de Sistemas/34 - Técnicas Avançadas De Banco de Dados/PDFs/2 -Modelo Lógico - relacional.pdf",
@@ -191,8 +203,6 @@
     "Fatec/30 - Desenvolvimento de Sistemas/34 - Técnicas Avançadas De Banco de Dados/PDFs/3 - Banco de Dados - Materia RESUMO GERAL.ppt",
     "Fatec/30 - Desenvolvimento de Sistemas/33 - Técnicas Avançadas de Programaçao/PDFs/Java 3 - Estrutura de repetição.pdf",
     "Fatec/30 - Desenvolvimento de Sistemas/33 - Técnicas Avançadas de Programaçao/PDFs",
-    "Fatec/30 - Desenvolvimento de Sistemas/33 - Técnicas Avançadas de Programaçao/Nova pasta",
-    "Fatec/30 - Desenvolvimento de Sistemas/34 - Técnicas Avançadas De Banco de Dados/PDFs/Java 1 - Introdução Prática.pdf",
-    "Fatec/30 - Desenvolvimento de Sistemas/34 - Técnicas Avançadas De Banco de Dados/PDFs/Java 2 - Estrutura de decis�o.pdf"
+    "Fatec/30 - Desenvolvimento de Sistemas/33 - Técnicas Avançadas de Programaçao/Nova pasta"
   ]
 }
